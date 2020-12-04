@@ -11,27 +11,24 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: Purdue University Fort Wayne
-  url: ""
+  url: https://www.pfw.edu/cs/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Reinforcement Learning
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science
+    institution: Purdue University Fort Wayne
+    year: 2023(expected)
+  - course: BS in Computer Science
+    institution: Purdue University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +41,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarkTrovinger
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/marktrovinger
@@ -69,6 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a graduate student in the Department of Computer Science at Purdue Fort Wayne. I am interested in the many forms of artificial intelligence, including but not limited to, deep learning, deep reinforcement learning, and natural language processing. I have strong skills in Python, focused mainly on both the data science stack in Python and deep learning frameworks, such as PyTorch.
