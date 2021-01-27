@@ -33,12 +33,28 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer"
+  company = "Richard J. Bagan, Inc."
+  company_url = "https://www.rjbagan.com/"
+  location = "Columbia City, Indiana"
+  date_start = "2007-07-01"
+  date_end = "2008-08-15"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Purdue University Fort Wayne"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Fort Wayne, Indiana"
+  date_start = "2010-09-01"
+  date_end = "2011-05-31"
+  description = """Assisted with labs and graded both projects and homework assignments for CS 160 and 161."""
 
 +++
