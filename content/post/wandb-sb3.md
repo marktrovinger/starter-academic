@@ -7,7 +7,7 @@ tags: ["reinforcement learning","experiment","wandb", "sb3"]
 
 One aspect of doing reinforcement learning research that has been more annoying than I would like is keeping track of experiments and experimental results. While this may sound a bit like an infomercial, I have to say that using Weights and Bias's integration with Stable Baselines 3 has made experiment tracking way easier than it was before!
 
-Using it is pretty simple, update to the latest version of WandB and then use:
+Using it is pretty simple, update to the latest version of WandB and then use[^1]:
 
 ```
 from wandb.integration.sb3 import WandbCallback
@@ -62,3 +62,5 @@ model.learn(
     ),
 )
 ```
+
+[^1]: [Stable Baselines 3](https://docs.wandb.ai/guides/integrations/other/stable-baselines-3)
