@@ -40,11 +40,6 @@ date_format = "Jan 2006"
   date_start = "2007-07-01"
   date_end = "2008-08-15"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 
